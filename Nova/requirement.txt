@@ -3,4 +3,3 @@ selenium
 datetime
 threaded
 SpeechRecognition
-PyAudio
