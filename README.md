@@ -2,9 +2,9 @@
 
 Assistant Vocal Python
 
-Permet de lance des recherche sur wikipedia \n
-Permet de lance des video sur youtube \n
-Permet de donner la date \n
-Permet de mettre/enlever des alarmes \n
-Permet de calculer \n
+Permet de lance des recherche sur wikipedia <br/>
+Permet de lance des video sur youtube <br/>
+Permet de donner la date <br/>
+Permet de mettre/enlever des alarmes <br/>
+Permet de calculer <br/>
 
